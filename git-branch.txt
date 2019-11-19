@@ -1,1 +1,11 @@
 this is a practice document.
+
+## What is a branch?
+
+A branch is a ref(erence) to a commit. When HEAD points to a branch, we say we are 'on' that branch.
+When we make a commit while on a branch, the branch is updated to ref(er) to the new commit.
+
+
+## What is HEAD?
+
+HEAD is a ref(erence) to the current working branch or commit.
