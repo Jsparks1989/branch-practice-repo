@@ -1,1 +1,7 @@
 this is a practice document.
+
+Created a new branch called stash-branch.
+To help learn more about the stash command.
+git stash: stash changes from working directory.
+git stash list: list stashes.
+git stash pop: apply stashed changes to working directory.
