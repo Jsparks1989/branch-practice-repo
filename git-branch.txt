@@ -13,3 +13,5 @@ HEAD is a ref(erence) to the current working branch or commit.
 
 
 
+Now working on learning git merge!
+- git merge: Merge changes from different branches
